@@ -1734,7 +1734,7 @@ take precedence the ones in this file. */
 	}
 
 	a {
-		color: #1abc9c;
+		color: #7f2bc9;
 	}
 
 	strong, b {
@@ -1894,7 +1894,7 @@ take precedence the ones in this file. */
 	input[type="button"],
 	button,
 	.button {
-		background-color: #1abc9c;
+		background-color: #7f2bc9;
 		color: #fff !important;
 	}
 
@@ -2182,7 +2182,7 @@ take precedence the ones in this file. */
 	input[type="radio"]:checked + label:before {
 		background-color: #fff;
 		border-color: #fff;
-		color: #1abc9c;
+		color: #7f2bc9;
 	}
 
 	input[type="checkbox"]:focus + label:before,
@@ -2625,19 +2625,19 @@ take precedence the ones in this file. */
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
-				color: #1abc9c;
+				color: #7f2bc9;
 			}
 
 			.wrapper.style1 a {
-				color: #1abc9c;
+				color: #7f2bc9;
 			}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
-				color: #1abc9c;
+				color: #7f2bc9;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #1abc9c;
+				color: #7f2bc9;
 			}
 
 			.wrapper.style1 blockquote {
@@ -2662,7 +2662,7 @@ take precedence the ones in this file. */
 			.wrapper.style1 input[type="button"],
 			.wrapper.style1 button,
 			.wrapper.style1 .button {
-				background-color: #1abc9c;
+				background-color: #7f2bc9;
 				color: #fff !important;
 			}
 
@@ -2689,7 +2689,7 @@ take precedence the ones in this file. */
 				.wrapper.style1 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #1abc9c !important;
+					color: #7f2bc9 !important;
 				}
 
 					.wrapper.style1 input[type="submit"].alt:hover,
@@ -2721,12 +2721,12 @@ take precedence the ones in this file. */
 				.wrapper.style1 input[type="button"].special,
 				.wrapper.style1 button.special,
 				.wrapper.style1 .button.special {
-					background-color: #1abc9c;
+					background-color: #7f2bc9;
 					color: #fff !important;
 				}
 
 			.wrapper.style1 label {
-				color: #1abc9c;
+				color: #7f2bc9;
 			}
 
 			.wrapper.style1 input[type="text"],
@@ -2743,8 +2743,8 @@ take precedence the ones in this file. */
 				.wrapper.style1 input[type="email"]:focus,
 				.wrapper.style1 select:focus,
 				.wrapper.style1 textarea:focus {
-					border-color: #1abc9c;
-					box-shadow: 0 0 0 1px #1abc9c;
+					border-color: #7f2bc9;
+					box-shadow: 0 0 0 1px #7f2bc9;
 				}
 
 			.wrapper.style1 .select-wrapper:before {
@@ -2764,15 +2764,15 @@ take precedence the ones in this file. */
 
 			.wrapper.style1 input[type="checkbox"]:checked + label:before,
 			.wrapper.style1 input[type="radio"]:checked + label:before {
-				background-color: #1abc9c;
-				border-color: #1abc9c;
+				background-color: #7f2bc9;
+				border-color: #7f2bc9;
 				color: #fff;
 			}
 
 			.wrapper.style1 input[type="checkbox"]:focus + label:before,
 			.wrapper.style1 input[type="radio"]:focus + label:before {
-				border-color: #1abc9c;
-				box-shadow: 0 0 0 1px #1abc9c;
+				border-color: #7f2bc9;
+				box-shadow: 0 0 0 1px #7f2bc9;
 			}
 
 			.wrapper.style1 ::-webkit-input-placeholder {
@@ -2812,7 +2812,7 @@ take precedence the ones in this file. */
 				}
 
 			.wrapper.style1 table th {
-				color: #1abc9c;
+				color: #7f2bc9;
 			}
 
 			.wrapper.style1 table thead {
@@ -2870,7 +2870,7 @@ take precedence the ones in this file. */
 			.wrapper.style2 input[type="button"],
 			.wrapper.style2 button,
 			.wrapper.style2 .button {
-				background-color: #1abc9c;
+				background-color: #7f2bc9;
 				color: #fff !important;
 			}
 
@@ -3349,7 +3349,7 @@ take precedence the ones in this file. */
 		#banner input[type="button"],
 		#banner button,
 		#banner .button {
-			background-color: #1abc9c;
+			background-color: #7f2bc9;
 			color: #fff !important;
 		}
 
@@ -3764,19 +3764,19 @@ take precedence the ones in this file. */
 		}
 
 			.post.style1 input, .post.style1 select, .post.style1 textarea {
-				color: #1abc9c;
+				color: #7f2bc9;
 			}
 
 			.post.style1 a {
-				color: #1abc9c;
+				color: #7f2bc9;
 			}
 
 			.post.style1 strong, .post.style1 b {
-				color: #1abc9c;
+				color: #7f2bc9;
 			}
 
 			.post.style1 h1, .post.style1 h2, .post.style1 h3, .post.style1 h4, .post.style1 h5, .post.style1 h6 {
-				color: #1abc9c;
+				color: #7f2bc9;
 			}
 
 			.post.style1 blockquote {
@@ -3797,7 +3797,7 @@ take precedence the ones in this file. */
 			.post.style1 input[type="button"],
 			.post.style1 button,
 			.post.style1 .button {
-				background-color: #1abc9c;
+				background-color: #7f2bc9;
 				color: #fff !important;
 			}
 
@@ -3824,7 +3824,7 @@ take precedence the ones in this file. */
 				.post.style1 .button.alt {
 					background-color: transparent;
 					box-shadow: inset 0 0 0 2px rgba(144, 144, 144, 0.25);
-					color: #1abc9c !important;
+					color: #7f2bc9 !important;
 				}
 
 					.post.style1 input[type="submit"].alt:hover,
@@ -3856,12 +3856,12 @@ take precedence the ones in this file. */
 				.post.style1 input[type="button"].special,
 				.post.style1 button.special,
 				.post.style1 .button.special {
-					background-color: #1abc9c;
+					background-color: #7f2bc9;
 					color: #fff !important;
 				}
 
 			.post.style1.invert {
-				background-color: #1abc9c;
+				background-color: #7f2bc9;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
@@ -3900,7 +3900,7 @@ take precedence the ones in this file. */
 				.post.style1.invert button,
 				.post.style1.invert .button {
 					background-color: #fff;
-					color: #1abc9c !important;
+					color: #7f2bc9 !important;
 				}
 
 					.post.style1.invert input[type="submit"].alt,
@@ -3943,11 +3943,11 @@ take precedence the ones in this file. */
 					.post.style1.invert button.special,
 					.post.style1.invert .button.special {
 						background-color: #fff;
-						color: #1abc9c !important;
+						color: #7f2bc9 !important;
 					}
 
 				.post.style1.invert .content {
-					background: #1abc9c;
+					background: #7f2bc9;
 				}
 
 					.post.style1.invert .content header p {
@@ -3969,7 +3969,7 @@ take precedence the ones in this file. */
 						}
 
 				.post.style1.invert .image {
-					background-color: #1abc9c;
+					background-color: #7f2bc9;
 				}
 
 		.post.style2 {
@@ -4011,7 +4011,7 @@ take precedence the ones in this file. */
 			.post.style2 input[type="button"],
 			.post.style2 button,
 			.post.style2 .button {
-				background-color: #1abc9c;
+				background-color: #7f2bc9;
 				color: #fff !important;
 			}
 
@@ -4113,7 +4113,7 @@ take precedence the ones in this file. */
 				.post.style2.invert input[type="button"],
 				.post.style2.invert button,
 				.post.style2.invert .button {
-					background-color: #1abc9c;
+					background-color: #7f2bc9;
 					color: #fff !important;
 				}
 
@@ -4241,7 +4241,7 @@ take precedence the ones in this file. */
 			.post.style3 input[type="button"],
 			.post.style3 button,
 			.post.style3 .button {
-				background-color: #1abc9c;
+				background-color: #7f2bc9;
 				color: #fff !important;
 			}
 
@@ -4343,7 +4343,7 @@ take precedence the ones in this file. */
 				.post.style3.invert input[type="button"],
 				.post.style3.invert button,
 				.post.style3.invert .button {
-					background-color: #1abc9c;
+					background-color: #7f2bc9;
 					color: #fff !important;
 				}
 
